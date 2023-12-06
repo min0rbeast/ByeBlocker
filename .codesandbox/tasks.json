@@ -4,7 +4,12 @@
     {
       "command": "npm i",
       "name": "n"
+      "runAtStart": false="true"error_code=error_code:
+      "command": "npm i",
+
     }
+
+
   ],
 
   // These tasks can be run from CodeSandbox. Running one will open a log in the app.
